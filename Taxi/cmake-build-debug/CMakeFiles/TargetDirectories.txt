@@ -1,0 +1,3 @@
+/Users/ann_d/CLionProjects/Taxi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ann_d/CLionProjects/Taxi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ann_d/CLionProjects/Taxi/cmake-build-debug/CMakeFiles/Taxi.dir
